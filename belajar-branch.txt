@@ -1,6 +1,7 @@
 halo 
 ini adalah file belajar branch
 README adalah sebuah penjelasan tentang repo itu sendiri
+intinya README itu penjelasan repo
 Branching
 • Membuat Git Branch
 • Membuat snapshot tanpa mengganggu
