@@ -6,3 +6,5 @@ Branching
 jalur utama (Master branch)
 • Fitur Experimental
 • 2 orang mengerjakan repo yang sama
+
+Dalam GitHub, "branch" merujuk pada salinan dari kode sumber atau proyek yang ada di repositori. Branch digunakan untuk mengembangkan fitur baru, memperbaiki kesalahan, atau membuat perubahan lain pada kode sumber tanpa memengaruhi branch utama atau "master".
