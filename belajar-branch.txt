@@ -1,0 +1,8 @@
+halo 
+ini adalah file belajar branch
+Branching
+• Membuat Git Branch
+• Membuat snapshot tanpa mengganggu
+jalur utama (Master branch)
+• Fitur Experimental
+• 2 orang mengerjakan repo yang sama
