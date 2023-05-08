@@ -1,5 +1,6 @@
 halo 
 ini adalah file belajar branch
+README adalah sebuah penjelasan tentang repo itu sendiri
 Branching
 • Membuat Git Branch
 • Membuat snapshot tanpa mengganggu
